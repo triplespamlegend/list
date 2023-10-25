@@ -94,7 +94,7 @@ function getUserData(user) {
     }
 
     for (var i = 0 ; i < user_data[user].progress.length ; i++) {
-        progresses = progresses + '<li><a href="'+user_data[user].progress[i].link+'" target="blank_">' + user_data[user].progress[i].map + ' ' + user_data[user].progress[i].progress + '% </strong>(#'+user_data[user].progress[i].rank+' / UP: '+user_data[user].progress[i].score+''+(parseInt(user_data[user].progress[i].hz.replace("hz", "")) >= 120 ? '' : ' / '+user_data[user].progress[i].hz)+')<strong></a></li>'
+        progresses = progresses + '<li><a href="'+user_data[user].progress[i].link+'" target="blank_">' + user_data[user].progress[i].map + ' ' + user_data[user].progress[i].progress + '% </strong>(#'+user_data[user].progress[i].rank+' / Points: '+user_data[user].progress[i].score+''+(parseInt(user_data[user].progress[i].hz.replace("hz", "")) >= 120 ? '' : ' / '+user_data[user].progress[i].hz)+')<strong></a></li>'
         if (user_data[user].progress[i].progress == 100) {
             clears++;
         }
@@ -104,7 +104,9 @@ function getUserData(user) {
     Swal.fire({
         title : "#"+(user+1)+" : "+user_data[user].name,
         html : '<center><strong>Score : '+user_data[user].point + '<br>'+
+            <--
             'Best Record : '+user_data[user].highest+'<br>'+
+            --!>
             'Completed Levels : '+clears+' Level(s)<br>'+
             '<br>Record List : '+progresses+'<br>'+
             '</strong></center>'
