@@ -5,6 +5,27 @@ const d = {
 			"vids": [
 				{
 					"user": "nucleus",
+					"link": "https://youtu.be/r3ASjqAW90Y?si=VRd9T1acAYwxPrVp",
+					"percent": 100,
+					"hz": "60hz"
+				},
+
+      ],
+			"name": "Spam Legend in Hell",
+			"author": "doublespamnoob",
+			"more": "none",
+			"id": "test",
+			"pass": "N/A",
+			"percentToQualify": "100",
+			"verificationVid": "https://youtu.be/r3ASjqAW90Y?si=VRd9T1acAYwxPrVp",
+/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
+			"key": 0
+		},
+		
+		{
+			"vids": [
+				{
+					"user": "nucleus",
 					"link": "https://www.youtube.com/watch?v=f84el8nZdVc",
 					"percent": 100,
 					"hz": "60hz"
