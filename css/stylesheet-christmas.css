@@ -1,6 +1,6 @@
 *{
   font-family: 'Mukta Mahee', sans-serif;
-  color: white;
+  color: white !important;
 }
 header{
   position: fixed;
@@ -52,6 +52,7 @@ header{
 }
 #inner-info, #inner-right-info{
   padding: 1em;
+  color: black;
 }
 .entry{
   padding: 1em;
@@ -114,6 +115,7 @@ A:hover {color:rgba(0, 0, 0,0.5) !important; text-decoration:none; }
 .interentry{
   width: 100%;
   padding: 0.5em;
+  color: black;
 }
 .record-entry:nth-child(even){
   background: rgb(9, 9, 11)
