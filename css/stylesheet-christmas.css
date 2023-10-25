@@ -8,7 +8,7 @@ header{
   left: 0;
   width: 100%;
   height: 100px;
-  background: rgb(255, 218, 218);
+  background: rgb(64, 130, 109);
 }
 #sitename{
   position: fixed;
@@ -27,7 +27,7 @@ header{
   font-size: 1.3em;
 }
 #list{
-  background: rgb(173, 255, 193);
+  background: rgb(51, 51, 51);
   position: fixed;
   top: 100px;
   left: 0;
@@ -35,7 +35,7 @@ header{
   overflow-y: auto;
 }
 #additional-information{
-  background: rgb(198, 242, 255);
+  background: rgb(247, 249, 249);
   position: fixed;
   top: 100px;
   right: 0;
@@ -43,7 +43,7 @@ header{
   overflow-y: auto;
 }
 #info{
-  background: rgb(235, 235, 235);
+  background: rgb(157, 133, 141);
   position: fixed;
   top: 100px;
   left: 30%;
