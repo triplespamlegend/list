@@ -35,7 +35,7 @@ header{
   overflow-y: auto;
 }
 #additional-information{
-  background: rgb(30, 30, 36);
+  background: rgb(37, 37, 45);
   position: fixed;
   top: 100px;
   right: 0;
@@ -43,7 +43,7 @@ header{
   overflow-y: auto;
 }
 #info{
-  background: rgb(37, 37, 45);
+  background: rgb(30, 30, 36);
   position: fixed;
   top: 100px;
   left: 30%;
