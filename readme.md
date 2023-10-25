@@ -2,4 +2,4 @@
 ---
 i'm such a silly goose
 --
-# created by nucleus
+created by nucleus
