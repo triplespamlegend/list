@@ -133,7 +133,7 @@ A:hover {color:rgba(0, 0, 0,0.5) !important; text-decoration:none; }
 }
 .hacked{
   background: red;
-  color: black;
+  color: white;
   font-weight: strong;
   font-size: 0.4em;
   padding: 0.4em;
@@ -141,7 +141,7 @@ A:hover {color:rgba(0, 0, 0,0.5) !important; text-decoration:none; }
 }
 .p-hacked{
   background: rgb(255, 127, 127);
-  color: black;
+  color: white;
   font-weight: strong;
   font-size: 0.4em;
   padding: 0.4em;
@@ -153,7 +153,7 @@ A:hover {color:rgba(0, 0, 0,0.5) !important; text-decoration:none; }
   left: 0;
   width: 100%;
   height: 100%;
-  background: black;
+  background: red;
   z-index: 99;
 }
 #user-rank {
