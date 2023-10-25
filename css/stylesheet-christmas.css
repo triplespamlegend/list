@@ -164,10 +164,3 @@ A:hover {color:rgba(0, 0, 0,0.5) !important; text-decoration:none; }
 Swal {
   color: black;
 }
-.button{
-display:inline-block;
-border-radius: 100px;
-font-weight: 300;
-color: #FFFFFF;
-text-align: center;
-}
