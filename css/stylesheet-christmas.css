@@ -1,6 +1,6 @@
 *{
   font-family: 'Mukta Mahee', sans-serif;
-  color: black !important;
+  color: white;
 }
 header{
   position: fixed;
@@ -35,7 +35,7 @@ header{
   overflow-y: auto;
 }
 #additional-information{
-  background: rgb(28, 28, 33);
+  background: rgb(37, 37, 45);
   position: fixed;
   top: 100px;
   right: 0;
