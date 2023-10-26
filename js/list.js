@@ -82,6 +82,46 @@ const d = {
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
 			"key": 0
 		},
+			{
+			"vids": [
+				{
+					"user": "nucleus",
+					"link": "https://www.youtube.com/watch?v=e4pdHjWuZJQ",
+					"percent": 100,
+					"hz": "60hz"
+				},
+
+      ],
+			"name": "Quadruple Spam Legend",
+			"author": "JoinMolten",
+			"more": "Couldn't find the original verification, so we're using my completion I guess.",
+			"id": "test",
+			"pass": "N/A",
+			"percentToQualify": "100",
+			"verificationVid": "https://www.youtube.com/watch?v=e4pdHjWuZJQ",
+/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
+			"key": 0
+		},
+		{
+			"vids": [
+				{
+					"user": "nucleus",
+					"link": "https://www.youtube.com/watch?v=smp9sJMhZzA",
+					"percent": 100,
+					"hz": "60hz"
+				},
+
+      ],
+			"name": "Triple Spam Legend",
+			"author": "BensonGD",
+			"more": "Couldn't find the original verification, so here's JoinMoltens' completion.",
+			"id": "test",
+			"pass": "N/A",
+			"percentToQualify": "100",
+			"verificationVid": "https://www.youtube.com/watch?v=xQ9pcsiS2Ak",
+/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
+			"key": 0
+		},
 		/*=================================================================================*/
 
 
