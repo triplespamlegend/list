@@ -69,7 +69,7 @@ header{
 A:hover {color:rgba(246, 248, 255,0.5) !important; text-decoration:none; }
 
 .selected{
-  background: rgba(36, 36, 45, 0) !important;
+  background: rgba(49, 51, 53, 0) !important;
 }
 .author{
   font-variant: small-caps;
@@ -110,7 +110,7 @@ A:hover {color:rgba(246, 248, 255,0.5) !important; text-decoration:none; }
 #explanation-simple{
   font-size: 18px;
   font-weight: bold;
-  color: rgb(248, 248, 255);
+  color: rgb(27, 27, 45);
 }
 .interentry{
   width: 100%;
