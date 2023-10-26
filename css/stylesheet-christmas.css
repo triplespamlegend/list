@@ -61,7 +61,7 @@ header{
   background: rgba(37, 37, 45);
 }
 .entry:hover{
-  background: rgba(30, 30, 36, 0);
+  background: rgba(27, 27, 34, 0);
   cursor: pointer;
   color:rgba(246, 248, 255,0.5) !important;
 }
@@ -119,7 +119,7 @@ A:hover {color:rgba(246, 248, 255,0.5) !important; text-decoration:none; }
   background: rgb(36, 37, 45)
 }
 .record-entry:nth-child(odd){
-  background: rgb(30, 30, 36)
+  background: rgb(27, 27, 34)
 }
 #block{
   position: fixed;
