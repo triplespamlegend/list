@@ -141,7 +141,7 @@ A:hover {color:rgba(246, 248, 255,0.5) !important; text-decoration:none; }
   border-radius: 1em;
 }
 .p-hacked{
-  background: rgb(30, 30, 36);
+  background: rgb(45, 45, 57);
   color: white;
   font-weight: strong;
   font-size: 0.4em;
@@ -164,8 +164,4 @@ A:hover {color:rgba(246, 248, 255,0.5) !important; text-decoration:none; }
 
 Swal {
   color: black;
-}
-Swal2{
-  color: black;
-  background-color: black;
 }
