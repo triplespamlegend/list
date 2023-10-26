@@ -58,10 +58,10 @@ header{
 
 }
 .entry:nth-child(odd){
-  background: rgba(255, 210, 210);
+  background: rgba(37, 37, 45);
 }
 .entry:hover{
-  background: rgba(255, 182, 182, 0);
+  background: rgba(30, 30, 36, 0);
   cursor: pointer;
   color:rgba(0, 0, 0,0.5) !important;
 }
