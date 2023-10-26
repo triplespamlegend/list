@@ -61,7 +61,6 @@ const d = {
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
 			"key": 0
 		},
-		
 		{
 			"vids": [
 				{
@@ -94,7 +93,7 @@ const d = {
       ],
 			"name": "Quadruple Spam Legend",
 			"author": "JoinMolten",
-			"more": "Couldn't find the original verification, so we're using my completion I guess.",
+			"more": "none",
 			"id": "test",
 			"pass": "N/A",
 			"percentToQualify": "100",
@@ -114,7 +113,7 @@ const d = {
       ],
 			"name": "Triple Spam Legend",
 			"author": "BensonGD",
-			"more": "Couldn't find the original verification, so here's JoinMoltens' completion.",
+			"more": "none",
 			"id": "test",
 			"pass": "N/A",
 			"percentToQualify": "100",
