@@ -63,13 +63,13 @@ header{
 .entry:hover{
   background: rgba(30, 30, 36, 0);
   cursor: pointer;
-  color:rgba(0, 0, 0,0.5) !important;
+  color:rgba(246, 248, 255,0.5) !important;
 }
 
 A:hover {color:rgba(246, 248, 255,0.5) !important; text-decoration:none; }
 
 .selected{
-  background: rgba(37, 38, 46, 0) !important;
+  background: rgba(27, 27, 34, 0) !important;
 }
 .author{
   font-variant: small-caps;
