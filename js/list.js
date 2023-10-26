@@ -4,10 +4,12 @@ const d = {
 		{
 			"vids": [
 				{
+					<--
 					"user": "nucleus",
 					"link": "https://youtu.be/ugLiVFSps08",
 					"percent": 100,
 					"hz": "60hz"
+				--!>
 				},
 
       ],
@@ -24,15 +26,17 @@ const d = {
 		{
 			"vids": [
 				{
+					<--
 					"user": "nucleus",
 					"link": "https://youtu.be/nLRyt1HPfpk?si=Tyt49OCaulQhgGHG",
 					"percent": 100,
 					"hz": "60hz"
+				--!>
 				},
 
       ],
 			"name": "Septuple Spam Legend",
-			"author": "doublespamnoob",
+			"author": "nucleus",
 			"more": "none",
 			"id": "test",
 			"pass": "N/A",
@@ -44,15 +48,17 @@ const d = {
 				{
 			"vids": [
 				{
+					<--
 					"user": "nucleus",
 					"link": "https://youtu.be/r3ASjqAW90Y?si=VRd9T1acAYwxPrVp",
 					"percent": 100,
 					"hz": "60hz"
+				--!>
 				},
 
       ],
 			"name": "Spam Legend in Hell",
-			"author": "doublespamnoob",
+			"author": "nucleus",
 			"more": "none",
 			"id": "test",
 			"pass": "N/A",
@@ -64,15 +70,17 @@ const d = {
 		{
 			"vids": [
 				{
+					<--
 					"user": "nucleus",
 					"link": "https://www.youtube.com/watch?v=f84el8nZdVc",
 					"percent": 100,
 					"hz": "60hz"
+				--!>
 				},
 
       ],
 			"name": "Quintuple Spam Legend",
-			"author": "doublespamnoob",
+			"author": "nucleus",
 			"more": "none",
 			"id": "test",
 			"pass": "N/A",
