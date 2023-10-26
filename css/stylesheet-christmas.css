@@ -116,10 +116,10 @@ A:hover {color:rgba(0, 0, 0,0.5) !important; text-decoration:none; }
   padding: 0.5em;
 }
 .record-entry:nth-child(even){
-  background: rgb(9, 9, 11)
+  background: rgb(36, 37, 45)
 }
 .record-entry:nth-child(odd){
-  background: rgb(18, 18, 22)
+  background: rgb(30, 30, 36)
 }
 #block{
   position: fixed;
