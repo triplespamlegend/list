@@ -4,6 +4,10 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "null",
+					"link": "null",
+					"percent": "null",
+					"hz": "null"
 				},
 
       ],
@@ -20,7 +24,10 @@ const d = {
 		{
 			"vids": [
 				{
-	
+						"user": "null",
+					"link": "null",
+					"percent": "null",
+					"hz": "null"
 				},
 
       ],
@@ -37,6 +44,10 @@ const d = {
 				{
 			"vids": [
 				{
+					"user": "null",
+					"link": "null",
+					"percent": "null",
+					"hz": "null"
 				},
 
       ],
@@ -53,6 +64,10 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "null",
+					"link": "null",
+					"percent": "null",
+					"hz": "null"
 				},
 
       ],
