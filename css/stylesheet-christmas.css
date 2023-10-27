@@ -162,7 +162,7 @@ A:hover {color:rgba(246, 248, 255,0.5) !important; text-decoration:none; }
   font-weight: bold;
   background-color: black;
 }
+Swal2 {
+    color: black;
+  }
 
-Swal.fire {
-  color: black;
-}
