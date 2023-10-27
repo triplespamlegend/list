@@ -4,10 +4,6 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "none",
-					"link": "none",
-					"percent": "none",
-					"hz": "none",
 				},
 
       ],
