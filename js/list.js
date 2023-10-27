@@ -6,7 +6,7 @@ const d = {
 				{
 					"user": "null",
 					"link": "null",
-					"percent": "null",
+					"percent": 0,
 					"hz": "null"
 				},
 
@@ -26,7 +26,7 @@ const d = {
 				{
 						"user": "null",
 					"link": "null",
-					"percent": "null",
+					"percent": 0,
 					"hz": "null"
 				},
 
@@ -46,7 +46,7 @@ const d = {
 				{
 					"user": "null",
 					"link": "null",
-					"percent": "null",
+					"percent": 0,
 					"hz": "null"
 				},
 
@@ -66,7 +66,7 @@ const d = {
 				{
 					"user": "null",
 					"link": "null",
-					"percent": "null",
+					"percent": 0,
 					"hz": "null"
 				},
 
