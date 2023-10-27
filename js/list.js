@@ -20,10 +20,7 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "none",
-					"link": "none",
-					"percent": "none",
-					"hz": "none"
+	
 				},
 
       ],
@@ -40,10 +37,6 @@ const d = {
 				{
 			"vids": [
 				{
-					"user": "none",
-					"link": "none",
-					"percent": "none",
-					"hz": "none"
 				},
 
       ],
@@ -60,10 +53,7 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "none",
-					"link": "none",
-					"percent": "none",
-					"hz": "none"
+					"user": "There are no victors yet! Submit a completion to be the first to complete this level.",
 				},
 
       ],
