@@ -162,6 +162,6 @@ A:hover {color:rgba(246, 248, 255,0.5) !important; text-decoration:none; }
   font-weight: bold;
 }
 Swal2 {
-    color: black;
+  color: rgb(0, 0, 0);
   }
 
