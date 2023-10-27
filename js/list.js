@@ -17,7 +17,7 @@ const d = {
 			"id": "test",
 			"pass": "N/A",
 			"percentToQualify": "100",
-			"verificationVid": "https://youtu.be/ugLiVFSps08",
+			"verificationVid": "https://www.youtube.com/watch?v=aFsGMpoUOS8",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
 			"key": 0
 		},
