@@ -171,3 +171,6 @@ Swal{
 Swal.fire{
   color: rgb(0,0,0);
 }
+#swal2-title{
+  color: black !important;
+}
