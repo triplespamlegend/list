@@ -53,7 +53,6 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "There are no victors yet! Submit a completion to be the first to complete this level.",
 				},
 
       ],
