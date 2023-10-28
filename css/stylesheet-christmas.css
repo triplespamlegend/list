@@ -166,8 +166,11 @@ Swal.fire{
   background-color: rgb(0,0,0) !important;
   }
 #swal2-title{
-  color: black !important;
+  color: rgb(0, 0, 0) !important;
 }
+Swal{
+  color: rgb(0, 0, 0);
+  }
 #Swal2{
   color: black !important;
 }
