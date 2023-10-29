@@ -103,10 +103,12 @@ A:hover {color:rgba(246, 248, 255,0.5) !important; text-decoration:none; }
 #explanation-simple-title{
   font-size: 1.5em;
   font-weight: bold;
+  color: white !important;
 }
 #explanation-simple{
   font-size: 18px;
   font-weight: bold;
+  color: white !important;
 }
 .interentry{
   width: 100%;
