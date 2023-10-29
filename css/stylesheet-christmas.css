@@ -1,6 +1,6 @@
 *{
   font-family: 'Mukta Mahee', sans-serif;
-  color: black;
+  color: white;
 }
 header{
   position: fixed;
@@ -15,7 +15,6 @@ header{
   top: 30px;
   left: 30px;
   font-size: 2em;
-  font-color: white !important;
 }
 
 
@@ -26,7 +25,6 @@ header{
   top: 35px;
   right: 30px;
   font-size: 1.3em;
-  color: white !important;
 }
 #list{
   background: rgb(30, 30, 36);
@@ -34,7 +32,6 @@ header{
   top: 100px;
   left: 0;
   width: 30%;
-  color: white !important;
   overflow-y: auto;
 }
 #additional-information{
@@ -44,7 +41,6 @@ header{
   right: 0;
   width: 30%;
   overflow-y: auto;
-  color: white !important;
 }
 #info{
   background: rgb(30, 30, 36);
@@ -53,15 +49,12 @@ header{
   left: 30%;
   width: 40%;
   overflow-y: auto;
-    color: white !important;
 }
 #inner-info, #inner-right-info{
   padding: 1em;
-  color: white !important;
 }
 .entry{
   padding: 1em;
-  color: white !important;
 
 }
 .entry:nth-child(odd){
@@ -77,26 +70,20 @@ A:hover {color:rgba(246, 248, 255,0.5) !important; text-decoration:none; }
 
 .selected{
   background: rgba(49, 51, 53, 0) !important;
-  color: white !important;
 }
 .author{
   font-variant: small-caps;
-  color: white !important;
 }
 #levelname{
   font-size: 1.7em;
   font-weight: bold;
-  color: white !important;
-
 }
 #levelauthor{
   font-size: 1.1em;
-  color: white !important;
 }
 #leveldescription{
   font-size: 0.8em;
   font-variant: small-caps;
-  color: white !important;
 }
 .vid{
   width: 100%;
@@ -116,12 +103,10 @@ A:hover {color:rgba(246, 248, 255,0.5) !important; text-decoration:none; }
 #explanation-simple-title{
   font-size: 1.5em;
   font-weight: bold;
-  color: white !important;
 }
 #explanation-simple{
   font-size: 18px;
   font-weight: bold;
-  color: white !important;
 }
 .interentry{
   width: 100%;
