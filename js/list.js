@@ -261,7 +261,35 @@ const d = {
 		/*=================================================================================*/
 /*=================================================================================*/
 /*=================================================================================*/
-		{
+{
+			"vids": [
+				{
+					"user": "EmpanadR",
+					"link": "https://youtu.be/b7rdA7RXSq8?si=TbabSlyMZACVvYJh",
+					"percent": 100,
+					"hz": "60hz"
+				},
+{
+					"user": "JoinMolten",
+					"link": "https://youtu.be/_LwvSAt0CNU?si=nAHqt0ap_J9PB97_",
+					"percent": 100,
+					"hz": "60hz"
+				},
+      ],
+			"name": "Chainsaw",
+			"author": "NXISE",
+			"more": "none",
+			"id": "65719547",
+			"pass": "N/A",
+			"percentToQualify": "100",
+			"verificationVid": "https://youtu.be/rE7OmE8bNgU?si=vxwOAzi2TuPgJvbn",
+/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
+			"key": 0
+		},
+		/*=================================================================================*/
+/*=================================================================================*/
+/*=================================================================================*/
+				{
 			"vids": [
 				{
 					"user": "nucleus",
