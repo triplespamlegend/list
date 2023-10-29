@@ -163,15 +163,9 @@ A:hover {color:rgba(0, 0, 0,0.5) !important; text-decoration:none; }
 #swal2-content {
   background-color: black !important;
   }
+.swal2-header {
+  background-color: black !important;
+  }
 #swal2-title {
   color: black !important;
-}
-.swal2-popup #swal2-content {
-color: black !important;
-}
-.swal2-popup {
-color: black !important;
-}
-.swal2-popup .swal2-content {
-color: black !important;
 }
