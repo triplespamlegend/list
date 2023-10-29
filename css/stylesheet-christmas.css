@@ -164,9 +164,6 @@ A:hover {color:rgba(246, 248, 255,0.5) !important; text-decoration:none; }
 #swal2-title{
   color: rgb(0, 0, 0) !important;
 }
-Swal.fire{
-  font-color: rgb(0, 0, 0) !important;
-}
 Swal2{
   font-color: rgb(0, 0, 0) !important;
 }
