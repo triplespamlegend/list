@@ -264,6 +264,29 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "nucleus",
+					"link": "https://youtu.be/QEd8ypgXUsY?si=ZOGtMoyYGYntMy9V",
+					"percent": 100,
+					"hz": "60hz"
+				},
+
+      ],
+			"name": "WhyTheLongLegend",
+			"author": "NXISE",
+			"more": "none",
+			"id": "65545141",
+			"pass": "N/A",
+			"percentToQualify": "100",
+			"verificationVid": "https://youtu.be/hK7v8GKQT1E?si=drhdUD1cKOeq6-tv",
+/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
+			"key": 0
+		},
+		/*=================================================================================*/
+/*=================================================================================*/
+/*=================================================================================*/
+		{
+			"vids": [
+				{
 					"user": "null",
 					"link": "null",
 					"percent": 0,
