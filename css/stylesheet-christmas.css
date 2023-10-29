@@ -169,3 +169,6 @@ A:hover {color:rgba(0, 0, 0,0.5) !important; text-decoration:none; }
 #swal2 {
   background-color: black !important;
 }
+a:visited {
+  color: white !important;
+}
