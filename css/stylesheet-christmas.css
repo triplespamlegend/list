@@ -163,7 +163,7 @@ A:hover {color:rgba(0, 0, 0,0.5) !important; text-decoration:none; }
 #swal2-content {
   background-color: black !important;
   }
-.swal2-header {
+.swal2-container swal2-center swal2-fade swal2-shown {
   background-color: black !important;
   }
 #swal2-title {
