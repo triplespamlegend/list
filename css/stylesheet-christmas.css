@@ -25,6 +25,7 @@ header{
   top: 35px;
   right: 30px;
   font-size: 1.3em;
+  color: white !important;
 }
 #list{
   background: rgb(30, 30, 36);
