@@ -160,15 +160,12 @@ A:hover {color:rgba(0, 0, 0,0.5) !important; text-decoration:none; }
   font-size: 20px;
   font-weight: bold;
 }
-#swal2-content {
+.swal2-content {
   background-color: black !important;
   }
 #swal2-title {
   color: black !important;
 }
 #swal2 {
-  background-color: black !important;
-}
-.swal2-popup {
   background-color: black !important;
 }
