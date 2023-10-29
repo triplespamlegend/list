@@ -163,8 +163,8 @@ A:hover {color:rgba(0, 0, 0,0.5) !important; text-decoration:none; }
 #swal2-content {
   background-color: black !important;
   }
-.swal2-container {
-  background-color: black !important;
+.swal2-confirm swal2-styled {
+  background-color: rgb(64, 130, 109) !important;
   }
 #swal2-title {
   color: black !important;
