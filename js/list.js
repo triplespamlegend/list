@@ -174,6 +174,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "xdgdytque",
+					"link": "https://youtu.be/qGr6u2w4VHw?si=syonheqAVOp6UOLk",
+					"percent": 100,
+					"hz": "60hz"
+				},
       ],
 			"name": "Triple Spam Legend",
 			"author": "BensonGD",
@@ -274,6 +280,60 @@ const d = {
 				{
 						"user": "EmpanadR",
 					"link": "https://youtu.be/8A852z6I51Q?si=xPFX3r7-Wagfh0dt",
+					"percent": 100,
+					"hz": "60hz"
+				},
+					{
+						"user": "BigTreedForest",
+					"link": "https://youtu.be/YqjRJhIy3xk?si=rbrIV8r5kUB2KtcR",
+					"percent": 100,
+					"hz": "60hz"
+				},
+						{
+						"user": "Chibbu",
+					"link": "https://youtu.be/nlQLj5WXbmA?si=eOhTehTL0MqSBo1L",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+						"user": "AstraloFY",
+					"link": "https://youtu.be/y-D0dplDHIo?si=Qp-5yJHeo62o3Y2g",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+						"user": "kmrxTear",
+					"link": "https://youtu.be/6ubEc8O_Zg8?si=V62bKcffsAgoEU1A",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+						"user": "Bleco327",
+					"link": "https://youtu.be/y6TuoR30i9s?si=o5mqK4Wrg7--KmOq",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+						"user": "HyperVN",
+					"link": "https://youtu.be/UnOrBCBU8dI?si=VE3D1cPHveBMeY8u",
+					"percent": 100,
+					"hz": "60hz"
+				},
+					{
+						"user": "Th3Name",
+					"link": "https://youtu.be/9t2ohUspGuo?si=B7Zdaqjih__TLB4U",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+						"user": "loooookkk",
+					"link": "https://youtu.be/Xr3gO8gCQAM?si=fWqb558FeORl1KZW",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+						"user": "thirtytwenty",
+					"link": "https://youtu.be/UWEdm0UoDDY?si=ImBus0Jj7Z3DjLB0",
 					"percent": 100,
 					"hz": "60hz"
 				},
