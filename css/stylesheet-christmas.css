@@ -164,9 +164,10 @@ A:hover {color:rgba(246, 248, 255,0.5) !important; text-decoration:none; }
 #swal2-title{
   color: rgb(0, 0, 0) !important;
 }
-#swal2-close{
-  color: rgb(64, 130, 109) !important;
+#swal2-confirm{
+  border-left-color: rgb(64, 130, 109) !important;
+  border-right-color: rgb(64, 130, 109) !important;
 }
 #swal2-content{
-  color: rgb(0, 0, 0) !important;
+  font-color: rgb(0, 0, 0) !important;
 }
