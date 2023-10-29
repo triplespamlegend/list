@@ -170,5 +170,5 @@ A:hover {color:rgba(0, 0, 0,0.5) !important; text-decoration:none; }
   background-color: black !important;
 }
 .swal2-popup {
-    background: black;
+    background: black !important;
 }
