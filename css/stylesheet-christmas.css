@@ -163,9 +163,12 @@ A:hover {color:rgba(0, 0, 0,0.5) !important; text-decoration:none; }
 .swal2-content {
   background-color: black !important;
   }
+.swal2-container {
+  background-color: black !important;
+  }
 #swal2-title {
   color: black !important;
 }
-.swal2 {
+#swal2 {
   background-color: black !important;
 }
