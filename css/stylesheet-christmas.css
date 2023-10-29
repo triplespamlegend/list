@@ -161,16 +161,16 @@ A:hover {color:rgba(0, 0, 0,0.5) !important; text-decoration:none; }
   font-weight: bold;
 }
 .swal2-content {
-  background-color: black !important;
+  background-color: rgb(30, 30, 36) !important;
   }
 #swal2-title {
-  color: black !important;
+  color: white !important;
 }
 #swal2 {
-  background-color: black !important;
+  background-color: rgb(30, 30, 36) !important;
 }
 .swal2-popup {
-    background: black !important;
+    background: rgb(30, 30, 36) !important;
 }
 .swal2-popup button {
   background: rgb(64, 130, 109) !important;
