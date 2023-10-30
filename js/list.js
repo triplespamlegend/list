@@ -38,7 +38,6 @@ const d = {
 			"author": "nucleus",
 			"more": "none",
 			"id": "91859474",
-				"score": "idk lol",
 			"pass": "N/A",
 			"percentToQualify": "100",
 			"verificationVid": "https://youtu.be/nLRyt1HPfpk?si=Tyt49OCaulQhgGHG",
