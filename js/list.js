@@ -97,13 +97,36 @@ const d = {
 			"vids": [
 				{
 					"user": "nucleus",
+					"link": "https://youtu.be/yNYPV_ZYmf8?si=3D5WMcgx8nm1pE9N",
+					"percent": 100,
+					"hz": "60hz"
+				},
+
+      ],
+			"name": "Spam Legend x100",
+			"author": "Artyr1337",
+			"more": "none",
+			"id": "83116092",
+			"pass": "N/A",
+			"percentToQualify": "100",
+			"verificationVid": "https://youtu.be/yNYPV_ZYmf8?si=3D5WMcgx8nm1pE9N",
+/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
+			"key": 0
+		},
+		/*=================================================================================*/
+/*=================================================================================*/
+/*=================================================================================*/
+			{
+			"vids": [
+				{
+					"user": "nucleus",
 					"link": "https://www.youtube.com/watch?v=e4pdHjWuZJQ",
 					"percent": 100,
 					"hz": "60hz"
 				},
 {
 					"user": "WhizKid05",
-					"link": "https://www.youtube.com/watch?v=e4pdHjWuZJQ",
+					"link": "https://youtu.be/GpjP-ObMtYA",
 					"percent": 100,
 					"hz": "60hz"
 				},
@@ -178,7 +201,7 @@ const d = {
 			"id": "95920243",
 			"pass": "N/A",
 			"percentToQualify": "100",
-			"verificationVid": "https://youtu.be/aFsGMpoUOS8?si=b_E50LLPmajmI-_a",
+			"verificationVid": "https://youtu.be/9Adpc_3h4vg?si=iKA2qx27jPjN-P3P",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
 			"key": 0
 		},
@@ -264,6 +287,52 @@ const d = {
 {
 			"vids": [
 				{
+					"user": "null",
+					"link": "null",
+					"percent": 0,
+					"hz": "null"
+				},
+
+      ],
+			"name": "Triple Walmart Legend",
+			"author": "nucleus",
+			"more": "none",
+			"id": "93941521",
+			"pass": "N/A",
+			"percentToQualify": "100",
+			"verificationVid": "https://youtu.be/BFGosO3Jtxs?si=elfGIIoIWJW13cLl",
+/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
+			"key": 0
+		},
+		/*=================================================================================*/
+/*=================================================================================*/
+/*=================================================================================*/
+	{
+			"vids": [
+				{
+					"user": "null",
+					"link": "null",
+					"percent": 0,
+					"hz": "null"
+				},
+
+      ],
+			"name": "Minionsaw",
+			"author": "nucleus",
+			"more": "none",
+			"id": "92368931",
+			"pass": "N/A",
+			"percentToQualify": "100",
+			"verificationVid": "https://youtu.be/LS1WzT0tANI?si=RpiXVipi_myaXfO3",
+/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
+			"key": 0
+		},
+		/*=================================================================================*/
+/*=================================================================================*/
+/*=================================================================================*/
+			{
+			"vids": [
+				{
 					"user": "EmpanadR",
 					"link": "https://youtu.be/b7rdA7RXSq8?si=TbabSlyMZACVvYJh",
 					"percent": 100,
@@ -306,6 +375,29 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": "100",
 			"verificationVid": "https://youtu.be/hK7v8GKQT1E?si=drhdUD1cKOeq6-tv",
+/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
+			"key": 0
+		},
+		/*=================================================================================*/
+/*=================================================================================*/
+/*=================================================================================*/
+				{
+			"vids": [
+				{
+					"user": "null",
+					"link": "null",
+					"percent": 0,
+					"hz": "null"
+				},
+
+      ],
+			"name": "Spam Legend x0",
+			"author": "nucleus",
+			"more": "none",
+			"id": "91478218",
+			"pass": "N/A",
+			"percentToQualify": "100",
+			"verificationVid": "https://youtu.be/smp9sJMhZzA?si=aNZwXH2cj4iUNqa_",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
 			"key": 0
 		},
