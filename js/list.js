@@ -201,7 +201,7 @@ const d = {
 			"id": "95920243",
 			"pass": "N/A",
 			"percentToQualify": "100",
-			"verificationVid": "https://youtu.be/9Adpc_3h4vg?si=iKA2qx27jPjN-P3P",
+			"verificationVid": "https://youtu.be/8Rfse5tCOMA?si=P3TRBUaTce6SVyFw",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
 			"key": 0
 		},
