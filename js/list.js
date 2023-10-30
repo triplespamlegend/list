@@ -15,6 +15,7 @@ const d = {
 			"author": "nucleus",
 			"more": "none",
 			"id": "95301418",
+			"score": "'+roundNumber(getUserPoint(rank+1, 100, list[rank].percentToQualify, "144hz")*1, 3)+'"
 			"pass": "N/A",
 			"percentToQualify": "100",
 			"verificationVid": "https://youtu.be/aFsGMpoUOS8?si=b_E50LLPmajmI-_a",
