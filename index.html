@@ -29,7 +29,7 @@
             <div id="pc-link"><a href="https://discord.gg/V53JZaDStw"><em><strong>The Discord Server</strong></a></em></div>
         </header>
         </div>
-								<div id ="list">
+	<div id ="list">
         <div id="info">
             <div id="inner-info">
                 <center>
@@ -350,7 +350,7 @@
                     hacked = " <span class='p-hacked'>POSSIBLY HACKED</span>";
                 }
             }
-            $("#levelname").html((rank > 150 ? `` : `#` + rank + ` `) + entry.name + hacked);
+            $("#levelname").html(entry.name + hacked);
             var author = entry.author;
             var final_author;
             if (author.includes(' more ')) {
