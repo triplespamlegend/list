@@ -317,6 +317,29 @@ const d = {
 				},
 
       ],
+			"name": "triple acropolis leg",
+			"author": "nucleus",
+			"more": "none",
+			"id": "92237431",
+			"pass": "N/A",
+			"percentToQualify": "100",
+			"verificationVid": "https://youtu.be/LS1WzT0tANI?si=T0e586WgAHh81tTY",
+/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
+			"key": 0
+		},
+		/*=================================================================================*/
+/*=================================================================================*/
+/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "null",
+					"link": "null",
+					"percent": 0,
+					"hz": "null"
+				},
+
+      ],
 			"name": "Minionsaw",
 			"author": "nucleus",
 			"more": "none",
@@ -381,7 +404,30 @@ const d = {
 		/*=================================================================================*/
 /*=================================================================================*/
 /*=================================================================================*/
+{
+			"vids": [
 				{
+					"user": "nucleus",
+					"link": "https://youtu.be/LS1WzT0tANI?si=T0e586WgAHh81tTY",
+					"percent": 100,
+					"hz": "60hz"
+				},
+
+      ],
+			"name": "nucleus challenge 2",
+			"author": "ray131",
+			"more": "none",
+			"id": "75208626",
+			"pass": "N/A",
+			"percentToQualify": "100",
+			"verificationVid": "https://youtu.be/LS1WzT0tANI?si=T0e586WgAHh81tTY",
+/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
+			"key": 0
+		},
+		/*=================================================================================*/
+/*=================================================================================*/
+/*=================================================================================*/
+		{
 			"vids": [
 				{
 					"user": "null",
