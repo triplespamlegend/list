@@ -350,7 +350,7 @@
                     hacked = " <span class='p-hacked'>POSSIBLY HACKED</span>";
                 }
             }
-            $("#levelname").html(entry.name + hacked);
+            $("#levelname").html(getVal(entry) + entry.name + hacked);
             var author = entry.author;
             var final_author;
             if (author.includes(' more ')) {
