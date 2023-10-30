@@ -349,7 +349,7 @@ const d = {
 			"author": "NXISE",
 			"more": "none",
 			"id": "65719547",
-			"pass": "N/A",
+			"pass": "139713",
 			"percentToQualify": "100",
 			"verificationVid": "https://youtu.be/rE7OmE8bNgU?si=vxwOAzi2TuPgJvbn",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
@@ -368,7 +368,7 @@ const d = {
 				},
 
       ],
-			"name": "WhyTheLongLegend",
+			"name": "WhyTheLongSpamLegend",
 			"author": "NXISE",
 			"more": "none",
 			"id": "65545141",
