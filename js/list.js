@@ -42,7 +42,7 @@ const d = {
 			"percentToQualify": "100",
 			"verificationVid": "https://youtu.be/nLRyt1HPfpk?si=Tyt49OCaulQhgGHG",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 1
 		},
 		/*=================================================================================*/
 /*=================================================================================*/
