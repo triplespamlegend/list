@@ -619,6 +619,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+					{
+						"user": "Isnt_Adam",
+					"link": "https://youtube.com/watch?v=Kp61UYJHZsQ",
+					"percent": 100,
+					"hz": "60hz"
+				},
       ],
 			"name": "Spam Legend",
 			"author": "nxise",
