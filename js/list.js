@@ -212,6 +212,29 @@ const d = {
 			"vids": [
 				{
 					"user": "nucleus",
+					"link": "https://youtu.be/LsVNMeS_Wgk?si=16LsyQPSxleafm-S",
+					"percent": 100,
+					"hz": "60hz"
+				},
+
+      ],
+			"name": "TripleSpamLegouement",
+			"author": "Ray131",
+			"more": "none",
+			"id": "79363659",
+			"pass": "N/A",
+			"percentToQualify": "100",
+			"verificationVid": "https://youtu.be/LsVNMeS_Wgk?si=16LsyQPSxleafm-S",
+/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
+			"key": 0
+		},
+		/*=================================================================================*/
+/*=================================================================================*/
+/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "nucleus",
 					"link": "https://www.youtube.com/watch?v=smp9sJMhZzA",
 					"percent": 100,
 					"hz": "60hz"
