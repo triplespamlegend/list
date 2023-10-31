@@ -367,6 +367,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "nucleus",
+					"link": "https://youtu.be/-xMqGid3-ZM?si=hXpjtr58p6Jt-JiI",
+					"percent": 100,
+					"hz": "60hz"
+				},
       ],
 			"name": "Chainsaw",
 			"author": "NXISE",
