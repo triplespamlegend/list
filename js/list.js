@@ -34,7 +34,7 @@ const d = {
 				},
 
       ],
-			"name": "#'+(rank+1)+' Septuple Spam Legend",
+			"name": "Septuple Spam Legend",
 			"author": "nucleus",
 			"more": "none",
 			"id": "91859474",
