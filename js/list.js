@@ -234,6 +234,29 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "null",
+					"link": "null",
+					"percent": 0,
+					"hz": "null"
+				},
+
+      ],
+			"name": "qsl easy",
+			"author": "nucleus",
+			"more": "none",
+			"id": "94841667",
+			"pass": "N/A",
+			"percentToQualify": "100",
+			"verificationVid": "https://youtu.be/MUnKjeYzSNs?si=_54kYZHmf5ezEZnc",
+/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
+			"key": 0
+		},
+		/*=================================================================================*/
+/*=================================================================================*/
+/*=================================================================================*/
+	{
+			"vids": [
+				{
 					"user": "nucleus",
 					"link": "https://youtu.be/LsVNMeS_Wgk?si=16LsyQPSxleafm-S",
 					"percent": 100,
