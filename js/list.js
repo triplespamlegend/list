@@ -42,7 +42,7 @@ const d = {
 			"percentToQualify": "100",
 			"verificationVid": "https://youtu.be/nLRyt1HPfpk?si=Tyt49OCaulQhgGHG",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 1
 		},
 		/*=================================================================================*/
 /*=================================================================================*/
@@ -65,7 +65,7 @@ const d = {
 			"percentToQualify": "100",
 			"verificationVid": "https://youtu.be/r3ASjqAW90Y?si=VRd9T1acAYwxPrVp",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 2
 		},
 		/*=================================================================================*/
 /*=================================================================================*/
@@ -88,7 +88,7 @@ const d = {
 			"percentToQualify": "100",
 			"verificationVid": "https://www.youtube.com/watch?v=f84el8nZdVc",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 3
 		},
 		/*=================================================================================*/
 /*=================================================================================*/
@@ -111,7 +111,7 @@ const d = {
 			"percentToQualify": "100",
 			"verificationVid": "https://youtu.be/yNYPV_ZYmf8?si=3D5WMcgx8nm1pE9N",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 4
 		},
 		/*=================================================================================*/
 /*=================================================================================*/
@@ -157,7 +157,7 @@ const d = {
 			"percentToQualify": "100",
 			"verificationVid": "https://www.youtube.com/watch?v=e4pdHjWuZJQ",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 5
 		},
 		/*=================================================================================*/
 /*=================================================================================*/
@@ -180,7 +180,7 @@ const d = {
 			"percentToQualify": "100",
 			"verificationVid": "https://youtu.be/ApJXNOTqXjg?si=p5eDHCIyTMnigPY7",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 6
 		},
 		/*=================================================================================*/
 /*=================================================================================*/
@@ -203,7 +203,7 @@ const d = {
 			"percentToQualify": "100",
 			"verificationVid": "https://www.youtube.com/watch?v=1G3V9otQeP4",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 7
 		},
 		/*=================================================================================*/
 /*=================================================================================*/
@@ -226,7 +226,7 @@ const d = {
 			"percentToQualify": "100",
 			"verificationVid": "https://youtu.be/8Rfse5tCOMA?si=P3TRBUaTce6SVyFw",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 8
 		},
 		/*=================================================================================*/
 /*=================================================================================*/
@@ -249,7 +249,7 @@ const d = {
 			"percentToQualify": "100",
 			"verificationVid": "https://youtu.be/MUnKjeYzSNs?si=_54kYZHmf5ezEZnc",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 9
 		},
 		/*=================================================================================*/
 /*=================================================================================*/
@@ -272,7 +272,7 @@ const d = {
 			"percentToQualify": "100",
 			"verificationVid": "https://youtu.be/LsVNMeS_Wgk?si=16LsyQPSxleafm-S",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 10
 		},
 		/*=================================================================================*/
 /*=================================================================================*/
@@ -348,7 +348,7 @@ const d = {
 			"percentToQualify": "100",
 			"verificationVid": "https://www.youtube.com/watch?v=xQ9pcsiS2Ak",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 11
 		},
 		/*=================================================================================*/
 /*=================================================================================*/
@@ -371,7 +371,7 @@ const d = {
 			"percentToQualify": "100",
 			"verificationVid": "https://youtu.be/BFGosO3Jtxs?si=elfGIIoIWJW13cLl",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 12
 		},
 		/*=================================================================================*/
 /*=================================================================================*/
@@ -394,7 +394,7 @@ const d = {
 			"percentToQualify": "100",
 			"verificationVid": "https://youtu.be/LS1WzT0tANI?si=T0e586WgAHh81tTY",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 13
 		},
 		/*=================================================================================*/
 /*=================================================================================*/
@@ -417,7 +417,7 @@ const d = {
 			"percentToQualify": "100",
 			"verificationVid": "https://youtu.be/LS1WzT0tANI?si=RpiXVipi_myaXfO3",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 14
 		},
 		/*=================================================================================*/
 /*=================================================================================*/
@@ -451,7 +451,7 @@ const d = {
 			"percentToQualify": "100",
 			"verificationVid": "https://youtu.be/rE7OmE8bNgU?si=vxwOAzi2TuPgJvbn",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 15
 		},
 		/*=================================================================================*/
 /*=================================================================================*/
@@ -474,7 +474,7 @@ const d = {
 			"percentToQualify": "100",
 			"verificationVid": "https://youtu.be/hK7v8GKQT1E?si=drhdUD1cKOeq6-tv",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 16
 		},
 		/*=================================================================================*/
 /*=================================================================================*/
@@ -497,7 +497,7 @@ const d = {
 			"percentToQualify": "100",
 			"verificationVid": "https://youtu.be/LS1WzT0tANI?si=T0e586WgAHh81tTY",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 17
 		},
 		/*=================================================================================*/
 /*=================================================================================*/
@@ -520,7 +520,7 @@ const d = {
 			"percentToQualify": "100",
 			"verificationVid": "https://youtu.be/smp9sJMhZzA?si=aNZwXH2cj4iUNqa_",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 18
 		},
 		/*=================================================================================*/
 /*=================================================================================*/
@@ -543,7 +543,7 @@ const d = {
 			"percentToQualify": "100",
 			"verificationVid": "https://youtu.be/qa4vxv3_uuk?si=Y6oqZEcmEhlL1eC7",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 19
 		},
 		/*=================================================================================*/
 /*=================================================================================*/
@@ -709,7 +709,7 @@ const d = {
 			"percentToQualify": "100",
 			"verificationVid": "https://youtu.be/DDfu9CDqf-g?si=1L9BTtbW04DSt7kh",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 20
 		},
 		/*=================================================================================*/
 
